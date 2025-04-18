@@ -1,0 +1,7 @@
+print('|++++++++++++++++++++++|')
+print('|                      |')
+print('|  Welcome to TJUSTB   |')
+print('|                      |')
+print('|++++++++++++++++++++++|')
+m=input()
+print('欢迎您，{}同学！'.format(m))
